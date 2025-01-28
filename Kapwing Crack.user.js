@@ -7,7 +7,7 @@
 // @match        https://www.kapwing.com/*
 // @run-at       document-start
 // @icon         https://cdn-useast1.kapwing.com/static/eAW-favicon-32x32.png
-// @updateURL    https://raw.githubusercontent.com/danthekidd/Kapwing-Crack/refs/heads/main/Kapwing Crack.user.js
+// @updateURL    https://raw.githubusercontent.com/danthekidd/Kapwing-Crack/refs/heads/main/Kapwing%20Crack.user.js
 // @grant        none
 // ==/UserScript==
 
